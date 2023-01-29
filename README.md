@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fazozela
 - 👀 I’m a software developer
-- 🌱 I’m currently learning C# & Angular
+- 🌱 I’m currently developing with .Net Core, Angular and Flutter
 - 💞️ I’m looking to collaborate on challenging projects
 - 📫 Contact me: fazogato@gmail.com
 - Page: https://fazozela.github.io/portafolio/ 
