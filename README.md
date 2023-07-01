@@ -2,5 +2,4 @@
 - 👀 I’m a fullstack software developer
 - 🌱 I’m currently developing with Angular | Flutter | Django
 - 💞️ I’m looking to collaborate on challenging projects
-- 📫 Contact me: fazogato@gmail.com
-- Page: https://fazozela.github.io/portafolio/ 
+
